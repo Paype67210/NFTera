@@ -231,9 +231,7 @@ git rebase --continue
 4. **Teste tout** : N'aie pas peur de casser (en local !)
 5. **Documente** : Tes futurs collègues te remercieront
 
-### Valider le Projet pour Epitech
-
-Si tu utilises NFTera pour un projet d'études :
+### Valider le Projet
 
 - ✅ Documente tes contributions (commits, PRs)
 - ✅ Tiens un journal de bord
