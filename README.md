@@ -138,8 +138,8 @@ NFTera/
 
 ## 📚 Documentation du Projet
 
-- 📄 [Product Breakdown Structure (PBS)](./docs/PBS_NFTera_V0.pdf) - Structure détaillée du produit
-- 🎤 [Pitch Deck V1](./docs/Pitch_de_presentation_V1.pdf) - Présentation investisseurs
+- 📄 [Product Breakdown Structure (PBS)](./docs/PBS%20NFTera_V0.pdf) - Structure détaillée du produit
+- 🎤 [Pitch Deck V1](./docs/Pitch%20de%20pr%C3%A9sentation_V1.pdf) - Présentation investisseurs
 - 🎨 [Visuels & Maquettes](./assets/) - Interfaces et marchés
 
 ---
@@ -196,9 +196,7 @@ Ce projet est conçu **PAR des étudiants POUR des étudiants** en MSc Pro. Que 
 ## 📞 Contact & Communauté
 
 - 💬 **Discord** : [Rejoindre le serveur](https://discord.gg/nftera) *(à créer)*
-- 📧 **Email** : contact@nftera.io *(à configurer)*
-- 🐦 **Twitter** : [@NFTera](https://twitter.com/nftera) *(à créer)*
-- 💼 **LinkedIn** : [NFTera](https://linkedin.com/company/nftera) *(à créer)*
+- 📧 **Email** : philippe.deson@epitech.eu
 
 ---
 
