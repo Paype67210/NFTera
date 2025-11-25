@@ -138,8 +138,8 @@ NFTera/
 
 ## 📚 Documentation du Projet
 
-- 📄 [Product Breakdown Structure (PBS)](./docs/PBS_NFTera_V0.pdf) - Structure détaillée du produit
-- 🎤 [Pitch Deck V1](./docs/Pitch_de_presentation_V1.pdf) - Présentation investisseurs
+- 📄 [Product Breakdown Structure (PBS)](./docs/PBS%20NFTera_V0.pdf) - Structure détaillée du produit
+- 🎤 [Pitch Deck V1](./docs/Pitch%20de%20pr%C3%A9sentation_V1.pdf) - Présentation investisseurs
 - 🎨 [Visuels & Maquettes](./assets/) - Interfaces et marchés
 
 ---
