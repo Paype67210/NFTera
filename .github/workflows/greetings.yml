@@ -1,0 +1,41 @@
+name: Greet New Contributors
+on:
+  pull_request_target:
+    types: [opened]
+  issues:
+    types: [opened]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            👋 Salut ! Merci pour ta première contribution à **NFTera** !
+            
+            🎓 Si tu es étudiant(e) à Epitech Strasbourg, bienvenue dans l'équipe !
+            
+            Un mainteneur va review ton issue sous peu. En attendant :
+            - 📖 Consulte notre [Guide de Contribution](../CONTRIBUTING.md)
+            - 💬 Rejoins notre Discord (lien dans le README)
+            - 🌟 N'hésite pas à star le repo !
+            
+            **Together, we're building the future of digital art 🎨🚀**
+          pr-message: |
+            🎉 Merci pour ta première Pull Request sur **NFTera** !
+            
+            🎓 Si c'est ta première contribution, bravo pour ce premier pas !
+            
+            Quelques rappels avant la review :
+            - ✅ Vérifie que les tests passent
+            - ✅ Assure-toi que ton code suit nos conventions
+            - ✅ Ajoute des screenshots si changement UI
+            
+            Un mainteneur va review ta PR bientôt. Merci pour ta patience ! 🙏
+            
+            **Welcome to the NFTera family! 🚀**
